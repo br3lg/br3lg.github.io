@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -70,9 +69,6 @@
     <section>
       <h2>Contact Us At</h2>
       <p>Email: omorogbev@ymail.com<br>Phone: 0414291401</p>
-  </main>
   <footer>
     &copy; 2025 Anycare Disability Service
   </footer>
-</body>
-</html>
